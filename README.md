@@ -1,4 +1,5 @@
 Netflix User Behavior Analysis with SQL & Power BI
+
 Welcome to my Netflix user behavior analytics project! This portfolio project is based on a synthetic dataset of 25,000 fictional users and showcases how SQL and Power BI can be used together to uncover insights about user engagement, preferences, and potential churn.
 
 📊 Project Objective
